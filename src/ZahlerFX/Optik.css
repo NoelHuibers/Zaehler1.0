@@ -1,0 +1,83 @@
+.root {
+    -fx-background-color: #383838;
+}
+
+.label {
+    -fx-text-fill: white;
+}
+
+.label-big{
+    -fx-font-size: 20;
+}
+
+.button {
+    -fx-background-color: #b7bec3;
+}
+
+.label-red {
+    -fx-text-fill: #fe8f8c;
+}
+
+.label-bold {
+    -fx-font-weight: bold;
+}
+
+.combo-box {
+    -fx-background-color: #b7bec3;
+    -fx-background-radius: 4;
+}
+
+.combo-box .list-view {
+    -fx-background-color: #b7bec3;
+    -fx-background-radius: 4;
+}
+
+.combo-box .list-cell {
+    -fx-background-radius: 4;
+    -fx-background-color: #b7bec3;
+}
+
+.combo-box .list-cell:hover {
+    -fx-background-color: #87a7ca;
+}
+
+.background1 {
+    -fx-background-color: #f26b5b ;
+}
+
+.background2 {
+    -fx-background-color: #b00b69 ;
+}
+
+.list-view {
+    -fx-background-color: #383838;
+    -fx-border-color: #383838;
+}
+
+.list-cell {
+    -fx-background-color: #383838;
+    -fx-text-fill: white;
+}
+
+.list-cell:selected {
+    -fx-background-color: #6b617a  ;
+}
+
+.context-menu {
+    -fx-background-color: #383838;
+    -fx-text-fill: white;
+}
+
+.menu-item .label {
+    -fx-text-fill: white;
+}
+
+.menu-item:focused {
+    -fx-background: -fx-accent;
+    -fx-background-color: #87a7ca;
+    -fx-text-fill: -fx-selection-bar-text;
+}
+
+.menu-item:focused .label {
+    -fx-text-fill: white;
+}
