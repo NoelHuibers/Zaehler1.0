@@ -1,18 +1,18 @@
 package ZahlerFX;
 
-import javafx.application.Application;
 import javafx.geometry.Insets;
 import javafx.scene.Scene;
-import javafx.scene.control.*;
+import javafx.scene.control.Button;
+import javafx.scene.control.ComboBox;
+import javafx.scene.control.Label;
+import javafx.scene.control.TextField;
 import javafx.scene.layout.GridPane;
-import javafx.scene.layout.StackPane;
-import javafx.scene.layout.VBox;
 import javafx.stage.Stage;
 
 /**
  * Die Klasse GUI1 ist das Fenster mit dem man ein neues Zahlungsobjekt erstellen kann.
  *
- * @author Noel Huibers, Jan Reuter, Boris Hyacinte Kemadjou Djeunou
+ * @author Noel Huibers
  * @version 0.1.1
  */
 

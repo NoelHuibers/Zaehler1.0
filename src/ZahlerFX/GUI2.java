@@ -1,14 +1,14 @@
 package ZahlerFX;
 
-import javafx.application.Application;
 import javafx.beans.binding.Bindings;
-import javafx.event.EventHandler;
 import javafx.geometry.Insets;
 import javafx.geometry.Pos;
-import javafx.scene.*;
+import javafx.scene.Scene;
 import javafx.scene.control.*;
-import javafx.scene.input.ContextMenuEvent;
-import javafx.scene.layout.*;
+import javafx.scene.layout.BorderPane;
+import javafx.scene.layout.FlowPane;
+import javafx.scene.layout.GridPane;
+import javafx.scene.layout.VBox;
 import javafx.stage.Stage;
 
 import java.util.Objects;
@@ -16,7 +16,7 @@ import java.util.Objects;
 /**
  * Die Klasse GUI2 ist das Hauptfenster welches den Zähler und damit zusammenhängende Elemente enthält.
  *
- * @author Noel Huibers, Jan Reuter, Boris Hyacinte Kemadjou Djeunou
+ * @author Noel Huibers
  * @version 0.1.1
  */
 

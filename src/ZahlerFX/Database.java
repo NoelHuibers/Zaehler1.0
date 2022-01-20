@@ -7,7 +7,7 @@ import java.util.Iterator;
 /**
  * Die Klasse Database ist die Datenbank, in  welcher die Zähler und Einstellungen der Zähler gespeichert werden.
  *
- * @author Noel Huibers, Jan Reuter, Boris Hyacinte Kemadjou Djeunou
+ * @author Noel Huibers
  * @version 0.0.1
  */
 public class Database {
